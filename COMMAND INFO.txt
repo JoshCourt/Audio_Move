@@ -1,0 +1,25 @@
+ffmpeg -i "IFT-T119011-B01.mpg" -itsoffset -1.00 -i "IFT-T119011-B01.mpg" -map 0:v -map 1:a -c copy "IFT-T119011-B01_EDITED4.mpg"
+
+IFT-T119432-B01
+
+792-B01
+792-BO3
+793-BO1
+793-BO4
+
+791B-01
+
+792-B01
+792-BO3
+
+*****
+792-BO3
+793-BO4 - IS ACTULLY FINE??
+s
+
+A8 SE3 -----
+	PRE - Concatenation NO AUDIO SUNC ISSUES
+	
+	Doffernt aspect ratio renders...???
+		EG A8_301 NOT
+		   A8_303 WIDE
